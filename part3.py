@@ -12,3 +12,4 @@ number2 = int(input("Enter another number: "))
 res = 7 * number2
 print("The sum of your numbers is", number1 + number2)
 print("Seven times your second number is", res)
+#works now

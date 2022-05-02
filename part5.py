@@ -16,3 +16,4 @@ Hello, Ash Ketchum
 first = str(input("What is your first name? "))
 last = str(input("What is your last name? "))
 print("Hello,", first, last)
+#it works hehe
